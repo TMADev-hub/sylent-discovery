@@ -1,4 +1,4 @@
 {
-  "apiBaseUrl": "https://sylent.ru",
-  "wsUrl": "wss://sylent.ru/ws"
+  "apiBaseUrl": "https://sylent.app",
+  "wsUrl": "wss://sylent.app/ws"
 }
